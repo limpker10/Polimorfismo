@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="84.5" y="259.5">herencia.tipoAbstract.Excavadora</node>
+    <node x="349.65453686200374" y="-127.74385633270322">herencia.tipoAbstract.Vehiculo</node>
+    <node x="-112.5" y="-60.5">herencia.tipoAbstract.Shop</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="herencia.tipoAbstract.Excavadora" target="herencia.tipoAbstract.Vehiculo" relationship="GENERALIZATION">
+      <point x="0.0" y="-60.5" />
+      <point x="197.0" y="204.0" />
+      <point x="455.15453686200374" y="204.0" />
+      <point x="0.0" y="148.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.7708561020036431" showDependencies="false" x="719.6198015122874" y="374.94399810964086" />
+  <SelectedNodes>
+    <node>herencia.tipoAbstract.Vehiculo</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
