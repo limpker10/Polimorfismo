@@ -8,5 +8,5 @@ En el caso de C++ no existen herencia de tipo por si sola, pero puede hacer su e
 - Jose Miguel Cano Vilcapaza
 
 ### UML de las clase trabajada en los tres lenguajes de programacion.
-[![UMLHerencia.png](https://i.postimg.cc/kgMxRpmk/UMLHerencia.png)](https://postimg.cc/QHPBRSVb)
-[![UMLHerencia-Tipo.png](https://i.postimg.cc/zfj6SMbK/UMLHerencia-Tipo.png)](https://postimg.cc/rdDfqf9w)
+[![UMLHerencia.png](https://i.postimg.cc/VLkqdh12/UMLHerencia.png)](https://postimg.cc/7bjGRm5N)
+[![UMLHerencia-Tipo.png](https://i.postimg.cc/8C24vmwM/UMLHerencia-Tipo.png)](https://postimg.cc/McY12RCp)
